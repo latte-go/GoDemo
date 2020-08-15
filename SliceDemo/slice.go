@@ -21,7 +21,3 @@ func NewSlice()  {
 	fmt.Println(UserSlice)
 }
 
-func main()  {
-	NewSlice()
-
-}
