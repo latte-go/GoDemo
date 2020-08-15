@@ -1,3 +1,3 @@
-module go_demo
+module github.com/latte97/GoDemo
 
-go 1.15
+go 1.14
